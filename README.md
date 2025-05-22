@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/A2T-user/A2T-user/blob/main/Android.jpg" width="112" height="192" />
+<img src="https://github.com/A2T-user/A2T-user/blob/main/Android.jpg" width="80" height="137" />
 </div>
 
 
